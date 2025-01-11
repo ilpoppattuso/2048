@@ -38,3 +38,14 @@ This is a Python recreation of the famous 2048 game using the Pygame library.
 - [high_score.txt](http://_vscodecontentref_/3): Stores the high score.
 - [LICENSE](http://_vscodecontentref_/4): The GNU General Public License for this project.
 - [README.md](http://_vscodecontentref_/5): This file.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](http://_vscodecontentref_/6) file for details.
+
+## Acknowledgements
+
+- Original 2048 game by Gabriele Cirulli: [2048](https://play2048.co/)
+- Pygame library: [Pygame](https://www.pygame.org/)
+
+Enjoy playing the game!
